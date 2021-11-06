@@ -9,4 +9,5 @@
 ## 개발환경
 -JAVA
 -InteliJ
--SpringBoot
+-JPA
+-H2 DATABASE
