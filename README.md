@@ -2,12 +2,15 @@
 
 - Spring Data JPA가 아닌 그 이전 순수 JPA를 위한 공간 입니다.
 
-- Spring Data JPA와의 차이점을 알기위해 어떻게 바뀌었는지, 뭐가 편해졌는지 비교하기 위한 학습이므로 기본적인 CRUD로만 구성 되어 있습니다.
+- Spring Data JPA와의 차이점을 알기위해 어떻게 바뀌었는지, 뭐가 편해졌는지 비교하기 위한 학습입니다.
 
 - hello2JPA는 DB노출 위험때문에 다른 설정 파일은 올리지 않고 코드만 올려놨습니다.
 
 ## 개발환경
--JAVA
--InteliJ
--JPA
--H2 DATABASE
+- JAVA
+
+- InteliJ
+
+- JPA
+
+- H2 DATABASE
