@@ -22,11 +22,13 @@
 **프로젝트 생성시 오류**
 
 
-
+<img width="438" alt="오류 1" src="https://user-images.githubusercontent.com/86937655/141488060-3639ccb9-f157-4de0-8ac7-5546362920ee.PNG">
 
 - 오류에는 구글링 만한게 없다. 바로 구글링을 해주자!
 
 - maven 프로젝튼 따로설정하지 않는 이상 자바 default 버전으로 1.5를 쓴다고한다. 이걸 8로 바꿔주자.
+
+<img width="420" alt="오류2" src="https://user-images.githubusercontent.com/86937655/141488081-aa8b98a7-c829-44a0-95df-d1cceb133aab.PNG">
 
 **JAXB**
 
