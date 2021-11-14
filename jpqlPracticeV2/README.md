@@ -1,19 +1,20 @@
-**JPQL 프로젝션**
+**1.JPQL 프로젝션**
 
 - JPQL 에서 select 절에 조회할 대상을 지정하는것 
 
+**다양한 조인**
+1. 내부조인(inner join)
 
-**1. 내부조인(inner join)**
-= SELECT m FROM Member m [INNER] JOIN m.team t
-= 멤버는 있고 팀이 없을 때 아예 안나온다
 
-**2. 외부조인(left outter join)**
-= SELECT m FROM Member m LEFT [OUTER] JOIN m.team t
-= 멤버는 있고 팀이 없을 때 멤버만 나온다
+2. 외부조인(left outter join)
 
-**3. 세타조인**
-= select count(m) from Member m, Team t where m.username =t.name
-= 연관관계없는 테이블 비교할때
+
+3. 세타조인
+
+
+
+
+
 
 
 **JPQL 기본함수**
