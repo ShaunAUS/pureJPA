@@ -9,4 +9,4 @@
 - 일대다 관계를 위한 엔티티를 만들고, 여기에서 값 타입을 사용
 
 
-https://velog.io/@wnsqud70/%EA%B0%92-%ED%83%80%EC%9E%85-%EC%BB%AC%EB%A0%89%EC%85%98
+더 자세히 보러가기:https://velog.io/@wnsqud70/%EA%B0%92-%ED%83%80%EC%9E%85-%EC%BB%AC%EB%A0%89%EC%85%98
