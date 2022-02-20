@@ -14,3 +14,8 @@
 - JPA
 
 - H2 DATABASE
+
+
+
+
+자세한건 제 기술블로그에 포스팅 하였습니다 ->  https://velog.io/@wnsqud70?tag=JPA
